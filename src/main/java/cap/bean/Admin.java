@@ -31,7 +31,6 @@ public class Admin {
         this.password = password;
     }
 
-
     public void setId(String id) {
     }
 }
